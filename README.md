@@ -22,15 +22,15 @@ A simple and responsive To-Do List application built using React.js and Vite.
 📂 Project Structure
 
 taskflow/
-├── public/
-├── src/
-│   ├── assets/
-│   ├── App.jsx
-│   ├── App.css
-│   ├── index.css
-│   └── main.jsx
-├── index.html
-├── package.json
+├── public/                                                                                                                                                                                
+├── src/                                                                                                                                                                                     
+│   ├── assets/                                                                                                                                                                                   
+│   ├── App.jsx                                                                                                                                                                                    
+│   ├── App.css                                                                                                                                                                               
+│   ├── index.css                                                                                                                                                                          
+│   └── main.jsx                                                                                                                                                                                   
+├── index.html                                                                                                                                                                             
+├── package.json                                                                                                                                                                           
 └── vite.config.js
 
 💻 How to Run the Project
